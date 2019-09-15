@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "arciniegaws",
+        "MONGO_PASSWORD": "rzD46sx8SKLRprmI",
+        "MONGO_DB": "wsdevbase"
+    }
+}
